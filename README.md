@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/miccafr">
-    <img src="https://discord.c99.nl/widget/theme-2/827263622551699466.png"/>
+    <img src="https://discord.c99.nl/widget/theme-2/876972715754520627.png"/>
      </a>
 </p>
 
